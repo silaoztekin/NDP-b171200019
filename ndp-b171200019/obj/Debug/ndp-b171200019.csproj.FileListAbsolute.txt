@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\bin\Debug\ndp-b171200019.exe.config
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\bin\Debug\ndp-b171200019.exe
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\bin\Debug\ndp-b171200019.pdb
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp-b171200019.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp_b171200019.Form1.resources
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp_b171200019.Properties.Resources.resources
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp-b171200019.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp-b171200019.exe
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp-b171200019.pdb
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp_b171200019.Form2.resources
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp_b171200019.Form3.resources
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp-b171200019.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asus\Desktop\visual-project\ndp-b171200019\ndp-b171200019\obj\Debug\ndp-b171200019.csproj.CopyComplete
